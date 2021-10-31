@@ -1,8 +1,10 @@
 ### Hi there, i am Rafi Firmansyah 👋
+<br><br>
+
+![Readme Card](https://github-readme-stats.vercel.app/api?username=rafifirmansyah&show_icons=true&theme=default) 
 <br>
-
-![Readme Card](https://github-readme-stats.vercel.app/api?username=rafifirmansyah&show_icons=true&theme=default) ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rafifirmansyah&hide=HTML,CSS,shell)
-
+![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rafifirmansyah&hide=HTML,CSS,shell)
+<br><br>
 
 - :computer:  Currently, I work as a Full Stack Developer, working on Website/Web Application using Laravel.
 - 🌱  I’m currently learning Node.JS and ExpressJS.
