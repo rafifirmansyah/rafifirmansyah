@@ -2,7 +2,7 @@
 <br>
 
 - :computer:  Currently, I work as a Back End Developer, working on API using ExpressJS.
-- 🌱  I’m currently learning NodeJS and ExpressJS more deeply.
+- 🌱  I’m currently learning Node JS and Express JS.
 - :writing_hand:  I am very happy to share my code to the world.
 - 📫   How to reach me:  by email to rafifirmansyah287@gmail.com
 <br><br>
